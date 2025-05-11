@@ -29,7 +29,7 @@ Welcome to the **Hyper Market Sales Dashboard** – an interactive and insightfu
 - The dataset used in this project includes sales transactions with columns like city, customer type, gender, department, payment method, and total sales.
 
 ## Screenshots
-![Dashboard Screenshot](images/.png)
+![Dashboard Screenshot](images/Hyper Market Sales Dashboard.jpg)
 
 ## Future Enhancements
 - Implement machine learning models for sales forecasting.
