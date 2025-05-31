@@ -42,6 +42,12 @@ This project utilizes Google Colaboratory to fetch recent tweets related to "Res
 - Libraries: \`requests\`, \`pandas\`, \`vaderSentiment\`, \`matplotlib\`, \`seaborn\`
 
 ## License
+This project is proprietary and was developed as part of an internship at **brainwave matrix solutions**. Unauthorized use, reproduction, or distribution is prohibited.
 
-[Specify your license here, e.g., MIT License]
+---
+
+### Author
+- **Eng. Mahmoud Abd El-Kader**
+- LinkedIn: [Mahmoud Abd El-Kader](https://www.linkedin.com/in/mahmoud-abd-el-kader-66a6a8308/)
+- GitHub: [MahmoudAbdElKader25](https://github.com/MahmoudAbdElKader25)
 
